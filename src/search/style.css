@@ -1,0 +1,33 @@
+.main{
+    margin: 60px;
+    background-color: grey;
+    text-align: center;
+    align-items: center;
+    height: 500px;
+}
+#searchbar{
+    width: 50%;
+    height: 30px;
+    padding: 10px;
+    border-radius: 90px;
+    color:grey;
+    text-align: center;
+}
+tr{
+
+    text-align: center;
+    margin: 100px;
+    height: 50px;
+    
+}
+td{
+    width: 50%;
+}
+table{
+    align-items: center;
+    width: 80%;
+    margin: 120px;
+    margin-top: 40px;
+    background-color: darkgray;
+
+}
